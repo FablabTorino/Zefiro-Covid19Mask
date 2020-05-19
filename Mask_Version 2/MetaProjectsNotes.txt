@@ -1,1 +1,9 @@
+FABRIC-FRAME
+FRAME-FACE SHIELD
 
+Problem: Now it's just glued
+Need: Fixing with mask, reversible, guaranteeing insolation and 3D printing
+
+DIFFUSER
+Problem: Fragile diffuser-valve connection
+Need: Improve the connection system with the valve 
