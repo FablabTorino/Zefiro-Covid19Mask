@@ -1,1 +1,25 @@
+FABRIC-FRAME
+FRAME-FACE SHIELD
 
+Problem: Now it's just glued
+Need: Fixing with mask, reversible, guaranteeing insolation and 3D printing
+
+DIFFUSER
+Problem: Fragile diffuser-valve connection
+Need: Improve the connection system with the valve 
+
+FRAME:
+Problem: many blocks, maybe fragile
+
+
+Study of printing parameters and thicknesses. Guarantee resistance with suitable thicknesses. 
+
+What are the stresses on the frame? Does it need a large thickness or a thin one with designed filling?
+
+Improve the elastic distribution system.
+
+Improve printability: problem with printers with a small printing plate.
+
+Improve ergonomics
+
+The zipper on the front band is weak. 
